@@ -28,6 +28,7 @@ The project is divided in two parts.
 2.2. Restore all of the Nuget packages.
 	Entity Framework
 	Unity Container
+	Cors
 
 2.3. Clean and rebuild the project.
 
