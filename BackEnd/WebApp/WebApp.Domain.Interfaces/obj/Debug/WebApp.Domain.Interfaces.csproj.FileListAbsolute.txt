@@ -1,0 +1,24 @@
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\WebApp.Domain.Interfaces.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\WebApp.Domain.Interfaces.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\WebApp.Domain.DataContext.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\EntityFramework.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\WebApp.Domain.DataContext.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\WebApp.Domain.DataContext.dll.config
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\EntityFramework.xml
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Interfaces\obj\Debug\WebApp.Domain.Interfaces.csprojAssemblyReference.cache
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Interfaces\obj\Debug\WebApp.Domain.Interfaces.csproj.CoreCompileInputs.cache
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Interfaces\obj\Debug\WebApp.Domain.Interfaces.csproj.CopyComplete
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Interfaces\obj\Debug\WebApp.Domain.Interfaces.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Interfaces\obj\Debug\WebApp.Domain.Interfaces.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\WebApp.Domain.Interfaces.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\WebApp.Domain.Interfaces.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\WebApp.Domain.DataContext.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\EntityFramework.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\WebApp.Domain.DataContext.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\WebApp.Domain.DataContext.dll.config
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.Domain.Interfaces\bin\Debug\EntityFramework.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.Domain.Interfaces\obj\Debug\WebApp.Domain.Interfaces.csprojAssemblyReference.cache
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.Domain.Interfaces\obj\Debug\WebApp.Domain.Interfaces.csproj.CoreCompileInputs.cache
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.Domain.Interfaces\obj\Debug\WebApp.Domain.Interfaces.csproj.CopyComplete
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.Domain.Interfaces\obj\Debug\WebApp.Domain.Interfaces.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.Domain.Interfaces\obj\Debug\WebApp.Domain.Interfaces.pdb

@@ -1,0 +1,218 @@
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebApp.dll.config
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebApp.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebApp.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\csc.exe
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\csc.exe.config
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\csc.rsp
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\csi.exe
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\csi.exe.config
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\csi.rsp
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Console.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\vbc.exe
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\vbc.exe.config
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\vbc.rsp
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\Antlr3.Runtime.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\Newtonsoft.Json.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Helpers.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Http.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Mvc.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Optimization.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Razor.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.WebPages.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\Unity.Abstractions.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\Unity.Container.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebApp.DAC.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebApp.Domain.DataContext.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebApp.Domain.Interfaces.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebApp.Service.Services.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebGrease.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\EntityFramework.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebApp.DAC.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebApp.DAC.dll.config
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebApp.Domain.DataContext.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebApp.Domain.DataContext.dll.config
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebApp.Domain.Interfaces.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\WebApp.Service.Services.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\Newtonsoft.Json.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Helpers.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Http.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Mvc.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Optimization.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Razor.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.WebPages.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\Unity.Abstractions.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\Unity.Container.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\Antlr3.Runtime.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\EntityFramework.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+D:\UruitTest\BackEnd\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+D:\UruitTest\BackEnd\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+D:\UruitTest\BackEnd\WebApp\WebApp\obj\Debug\WebApp.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\obj\Debug\WebApp.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\EntityFramework.SqlServer.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\EntityFramework.SqlServer.xml
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Cors.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+D:\UruitTest\BackEnd\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebApp.dll.config
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebApp.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebApp.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\csc.exe
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\csc.exe.config
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\csc.rsp
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\csi.exe
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\csi.exe.config
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\csi.rsp
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.CSharp.Core.targets
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.Managed.Core.targets
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\Microsoft.VisualBasic.Core.targets
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.AppContext.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Collections.Immutable.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Console.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Diagnostics.FileVersionInfo.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Diagnostics.StackTrace.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.IO.Compression.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.IO.FileSystem.Primitives.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.IO.Pipes.AccessControl.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.IO.Pipes.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Reflection.Metadata.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.AccessControl.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.Claims.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Algorithms.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Encoding.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.Primitives.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.Cryptography.X509Certificates.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Security.Principal.Windows.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Text.Encoding.CodePages.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.ValueTuple.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Xml.ReaderWriter.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Xml.XmlDocument.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Xml.XPath.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\System.Xml.XPath.XDocument.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\vbc.exe
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\vbc.exe.config
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\vbc.rsp
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\roslyn\VBCSCompiler.exe.config
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\Antlr3.Runtime.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\EntityFramework.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\EntityFramework.SqlServer.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\Microsoft.Web.Infrastructure.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\Newtonsoft.Json.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Diagnostics.DiagnosticSource.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Net.Http.Formatting.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Runtime.CompilerServices.Unsafe.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Cors.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Helpers.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Http.Cors.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Http.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Http.WebHost.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Mvc.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Optimization.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Razor.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.WebPages.Deployment.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.WebPages.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.WebPages.Razor.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\Unity.Abstractions.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\Unity.Container.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebApp.DAC.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebApp.Domain.DataContext.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebApp.Domain.Interfaces.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebApp.Service.Services.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebGrease.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebApp.DAC.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebApp.DAC.dll.config
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebApp.Domain.DataContext.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebApp.Domain.DataContext.dll.config
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebApp.Domain.Interfaces.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\WebApp.Service.Services.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\EntityFramework.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\EntityFramework.SqlServer.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Net.Http.Formatting.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Runtime.CompilerServices.Unsafe.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Http.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Http.Cors.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\Newtonsoft.Json.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Helpers.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Http.WebHost.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Mvc.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Optimization.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.Razor.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.WebPages.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.WebPages.Deployment.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Web.WebPages.Razor.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\Unity.Abstractions.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\Unity.Container.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\Antlr3.Runtime.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\System.Diagnostics.DiagnosticSource.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\Microsoft.AspNet.TelemetryCorrelation.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\obj\Debug\WebApp.csprojAssemblyReference.cache
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\obj\Debug\WebApp.csproj.CoreCompileInputs.cache
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\obj\Debug\WebApp.csproj.CopyComplete
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\obj\Debug\WebApp.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp\obj\Debug\WebApp.pdb

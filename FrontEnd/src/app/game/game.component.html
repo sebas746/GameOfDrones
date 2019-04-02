@@ -1,0 +1,64 @@
+<div class="container">
+  <div class="gameHeader">
+    Player 1: {{ playersNames.Player1 }} - Player 2: {{ playersNames.Player2 }} 
+  </div>
+  <div class="title">
+      <h1>Game of Drones - Round {{ roundNumber }}</h1>
+  </div>
+  <hr>
+  <form [formGroup]="gameForm" (ngSubmit)="onSubmit()">
+    <div class="form-row">
+      <div class="form-group col-md-6">
+        <h2 class="title">{{ currentPlayer }}</h2>
+        <div class="form-group">
+          <label for="playerMove">Select your move</label>
+          <select class="form-control" formControlName="playerMove">
+            <option value="">Select one movement..</option>
+            <option *ngFor="let i of gamingOptions" [ngValue]="i.value">{{ i.value }}</option>
+          </select>
+        </div>
+        <button class="btn btn-primary" [disabled]="gameForm.invalid">Got It!</button>
+      </div>      
+    </div>
+    <div class="form-row">
+        <div class="form-group col-md-12">
+            <h2 class="title">Current Score</h2>
+            <table class="table">
+                <thead>
+                  <tr>
+                    <th scope="col">Round</th>
+                    <th scope="col">Winner</th>
+                  </tr>
+                </thead>
+                <tbody>
+                    <tr *ngFor="let item of results">
+                    <td>{{ item.round }}</td>
+                    <td>{{ item.winnerName }} - {{ item.winnerNickName }}</td>
+                  </tr>
+                </tbody>
+              </table>
+        </div>
+    </div>    
+  </form>
+    
+    <!-- Modal -->
+    <div class="modal fade" id="exampleModalCenter" tabindex="-1" role="dialog" aria-labelledby="exampleModalCenterTitle"
+     aria-hidden="true" [ngStyle]="{'display': winnerModalOpen ? 'block' : 'none', 'opacity': 1}">
+      <div class="modal-dialog modal-dialog-centered" role="document">
+        <div class="modal-content">
+          <div class="modal-header">
+            <h5 class="modal-title" id="exampleModalLongTitle">There is a Winner!!</h5>
+            <button type="button" class="close" data-dismiss="modal" aria-label="Close">
+              <span aria-hidden="true">&times;</span>
+            </button>
+          </div>
+          <div class="modal-body">
+            The winner is {{ playerWinner }}
+          </div>
+          <div class="modal-footer">
+            <button type="button" class="btn btn-secondary" (click)="restartService()" data-dismiss="modal">Start Again</button>
+          </div>
+        </div>
+      </div>
+    </div>  
+</div>

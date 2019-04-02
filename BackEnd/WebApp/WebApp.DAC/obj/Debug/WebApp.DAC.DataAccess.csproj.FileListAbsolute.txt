@@ -1,0 +1,34 @@
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.DAC.dll.config
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.DAC.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.DAC.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\bin\Debug\EntityFramework.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\bin\Debug\EntityFramework.SqlServer.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.Domain.DataContext.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.Domain.Interfaces.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.Domain.DataContext.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.Domain.DataContext.dll.config
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.Domain.Interfaces.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\bin\Debug\EntityFramework.xml
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\bin\Debug\EntityFramework.SqlServer.xml
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\obj\Debug\WebApp.DAC.DataAccess.csprojAssemblyReference.cache
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\obj\Debug\WebApp.DAC.DataAccess.csproj.CoreCompileInputs.cache
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\obj\Debug\WebApp.DAC.DataAccess.csproj.CopyComplete
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\obj\Debug\WebApp.DAC.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.DAC\obj\Debug\WebApp.DAC.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.DAC.dll.config
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.DAC.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.DAC.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\bin\Debug\EntityFramework.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\bin\Debug\EntityFramework.SqlServer.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.Domain.DataContext.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.Domain.Interfaces.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.Domain.DataContext.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.Domain.DataContext.dll.config
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\bin\Debug\WebApp.Domain.Interfaces.pdb
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\bin\Debug\EntityFramework.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\bin\Debug\EntityFramework.SqlServer.xml
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\obj\Debug\WebApp.DAC.DataAccess.csprojAssemblyReference.cache
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\obj\Debug\WebApp.DAC.DataAccess.csproj.CoreCompileInputs.cache
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\obj\Debug\WebApp.DAC.DataAccess.csproj.CopyComplete
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\obj\Debug\WebApp.DAC.dll
+D:\UruitTest - copia\BackEnd\WebApp\WebApp.DAC\obj\Debug\WebApp.DAC.pdb

@@ -1,0 +1,6 @@
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Entities\bin\Debug\WebApp.Domain.Entities.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Entities\bin\Debug\WebApp.Domain.Entities.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Entities\obj\Debug\WebApp.Domain.Entities.csprojAssemblyReference.cache
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Entities\obj\Debug\WebApp.Domain.Entities.csproj.CoreCompileInputs.cache
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Entities\obj\Debug\WebApp.Domain.Entities.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.Entities\obj\Debug\WebApp.Domain.Entities.pdb

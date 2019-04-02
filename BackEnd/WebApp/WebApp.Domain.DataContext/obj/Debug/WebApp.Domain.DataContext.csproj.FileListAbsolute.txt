@@ -1,0 +1,12 @@
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.DataContext\bin\Debug\WebApp.Domain.DataContext.dll.config
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.DataContext\bin\Debug\WebApp.Domain.DataContext.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.DataContext\bin\Debug\WebApp.Domain.DataContext.pdb
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.DataContext\bin\Debug\EntityFramework.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.DataContext\bin\Debug\EntityFramework.SqlServer.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.DataContext\bin\Debug\EntityFramework.xml
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.DataContext\bin\Debug\EntityFramework.SqlServer.xml
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.DataContext\obj\Debug\WebApp.Domain.DataContext.csprojAssemblyReference.cache
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.DataContext\obj\Debug\WebApp.Domain.DataContext.csproj.CoreCompileInputs.cache
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.DataContext\obj\Debug\WebApp.Domain.DataContext.csproj.CopyComplete
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.DataContext\obj\Debug\WebApp.Domain.DataContext.dll
+D:\UruitTest\BackEnd\WebApp\WebApp.Domain.DataContext\obj\Debug\WebApp.Domain.DataContext.pdb

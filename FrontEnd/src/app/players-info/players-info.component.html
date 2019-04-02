@@ -1,0 +1,22 @@
+<div class="container">
+  <form [formGroup]="playersForm" (ngSubmit)="onSubmit()">
+    <div class="form-group">
+      <label for="txtPlayer1">Player 1</label>
+      <input type="text" formControlName="player1Name" class="form-control" [ngClass]="ValidateControl('player1Name')"
+        placeholder="Enter player 1 nickname" />
+    </div>
+    <div class="form-group">
+      <label for="txtPlayer2">Player 2</label>
+      <input type="text" class="form-control" formControlName="player2Name" id="txtPlayer2" [ngClass]="ValidateControl('player2Name')" 
+        placeholder="Enter player 2 nickname">
+        <div *ngIf="validateFormMsj('player2Name')"
+        class="alert alert-danger">
+        <div *ngIf="playersForm.controls['lastName'].errors.required">
+          Name is required.
+        </div>
+      </div>
+    </div>
+
+    <button class="btn btn-primary" [disabled]="playersForm.invalid">Start!</button>
+  </form>
+</div>
